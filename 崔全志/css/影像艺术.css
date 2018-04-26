@@ -1,0 +1,88 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.l{
+	float: left;
+}
+.r{
+	float: right;
+}
+body{
+	background: url(../img/background_b769e67_1.jpg) no-repeat;
+}
+.hea{
+	width: 100%;
+	height: 354px;
+	border: 1px solid red;
+}
+.sca{
+	width: 100%;
+	height: 354px;
+	background: url(../img/dome-light_0c7e943.png) no-repeat center;
+}
+.h-l{
+	position: absolute;
+	width: 1000px;
+	height: 90px;
+	left: 50px;
+	top: 50px;
+}
+.h-l ul li{
+	display: inline-block;
+	list-style-type: none;
+	margin-left: 25px;
+	margin-top: 45px;
+}
+.h-l p{	
+	margin-left: 25px;	
+}
+.h-l a{
+	color: white;
+	text-decoration: none;	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
